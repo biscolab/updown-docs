@@ -1,7 +1,7 @@
 ---
 id: version-v1.1.0-webhook
 title: WebHook
-sidebar_label: WebHook (CRUD)
+sidebar_label: WebHook
 original_id: webhook
 ---
 > Source is the <a href="https://updown.io/api" target="_blank">Official Page of updown.io API</a>

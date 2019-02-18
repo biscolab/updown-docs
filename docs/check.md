@@ -1,7 +1,7 @@
 ---
 id: check
 title: Check
-sidebar_label: Check (CRUD)
+sidebar_label: Check
 ---
 > Source is the <a href="https://updown.io/api" target="_blank">Official Page of updown.io API</a>
 ## Get All Checks
