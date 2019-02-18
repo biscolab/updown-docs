@@ -1,0 +1,12 @@
+{
+  "version-v1.0.0-docs": {
+    "Getting Started": [
+      "version-v1.0.0-intro",
+      "version-v1.0.0-installation",
+      "version-v1.0.0-usage"
+    ],
+    "Reference": [
+      "version-v1.0.0-check"
+    ]
+  }
+}

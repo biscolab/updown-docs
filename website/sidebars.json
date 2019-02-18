@@ -1,0 +1,12 @@
+{
+  "docs": {
+    "Getting Started": [
+      "intro",
+      "installation",
+      "usage"
+    ],
+    "Reference": [
+      "check"
+    ]
+  }
+}
