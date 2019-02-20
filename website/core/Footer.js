@@ -43,16 +43,16 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>Community</h5>
-            <a href={'https://github.com/biscolab/laravel-recaptcha/issues'} target={'_blank'}>
+            <a href={'https://github.com/biscolab/updown-php-sdk/issues'} target={'_blank'}>
               Issue tracker
             </a>
-            <a href={'https://github.com/biscolab/laravel-recaptcha/blob/master/LICENSE'} target={'_blank'}>
+            <a href={'https://github.com/biscolab/updown-php-sdk/blob/master/LICENSE'} target={'_blank'}>
               License
             </a>
           </div>
           <div>
             <h5>More</h5>
-            <a className="github-button" href={this.props.config.repoUrl} aria-label="Star biscolab/laravel-recaptcha on GitHub">Github</a>
+            <a className="github-button" href={this.props.config.repoUrl} aria-label="Star biscolab/updown-php-sdk on GitHub">Github</a>
           </div>
         </section>
 

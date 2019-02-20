@@ -81,7 +81,13 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ['https://buttons.github.io/buttons.js', 'http://chs03.cookie-script.com/s/5462f0b70af569a29b401589fc180ce6.js'],
+  scripts: ['https://buttons.github.io/buttons.js', 
+    'http://chs03.cookie-script.com/s/5462f0b70af569a29b401589fc180ce6.js',
+    'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
+    '/js/code-blocks-buttons.js'
+  ],
+
+  stylesheets: ['/css/code-blocks-buttons.css'],
 
   // On page navigation for the current documentation page.
   onPageNav: 'separate',
