@@ -40,6 +40,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'intro', label: 'Docs'},
+    {doc: 'laravel', label: 'Laravel'},
     // {page: 'help', label: 'Help'},
 	  {href: 'https://github.com/biscolab/updown-php-sdk', label: 'GitHub'}
   ],
@@ -73,7 +74,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-	copyright: "Copyright © " + new Date().getFullYear() + " Roberto Belotti",
+	copyright: "Copyright © " + new Date().getFullYear() + " Roberto Belotti 🍪",
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -108,11 +109,11 @@ const siteConfig = {
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-  repoUrl: 'https://github.com/biscolab/updown-php-sdk'//,
+  repoUrl: 'https://github.com/biscolab/updown-php-sdk',
   
-  // gaTrackingId: 'UA-5439279-35',
+  gaTrackingId: 'UA-5439279-36',
 
-  // gaGtag: true
+  gaGtag: true
 
 };
 

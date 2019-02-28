@@ -12,6 +12,9 @@
     ],
     "Push API": [
       "version-v1.1.0-event"
+    ],
+    "Frameworks": [
+      "version-v1.1.0-laravel"
     ]
   }
 }

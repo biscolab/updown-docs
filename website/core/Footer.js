@@ -40,6 +40,9 @@ class Footer extends React.Component {
             <a href={this.docUrl('intro')}>
               Getting Started
             </a>
+            <a href={this.docUrl('laravel')}>
+              Laravel package
+            </a>
           </div>
           <div>
             <h5>Community</h5>

@@ -12,6 +12,9 @@
     ],
     "Push API": [
       "event"
+    ],
+    "Frameworks": [
+      "laravel"
     ]
   }
 }
