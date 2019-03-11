@@ -113,7 +113,9 @@ const siteConfig = {
   
   gaTrackingId: 'UA-5439279-36',
 
-  gaGtag: true
+  gaGtag: true,
+
+  docsSideNavCollapsible: true
 
 };
 

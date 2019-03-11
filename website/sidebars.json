@@ -6,12 +6,24 @@
       "usage"
     ],
     "Reference": [
-      "check",
-      "webhook",
-      "node"
-    ],
-    "Push API": [
-      "event"
+      "crud",
+      {
+        "type": "subcategory",
+        "label": "CRUD Objects",
+        "ids": [
+          "check",
+          "webhook",
+          "node"
+        ]
+      },
+      "crud",
+      {
+        "type": "subcategory",
+        "label": "Push API",
+        "ids": [
+          "event"
+        ]
+      }
     ],
     "Frameworks": [
       "laravel"
